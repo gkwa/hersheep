@@ -1,0 +1,7 @@
+* hersheep
+
+This is a description of my hersheep.
+
+** Usage
+
+To use my project, run this command: ./hersheep --verbose
